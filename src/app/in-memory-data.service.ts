@@ -13,8 +13,8 @@ export class InMemoryDataService implements InMemoryDbService {
       {id: 3, name: "movie3",description:"perfect movie", imageUrl:"3.jpg"},
       {id: 4, name: "movie4",description:"bad movie", imageUrl:"4.jpg"},
       {id: 5, name: "movie5",description:"so-so movie", imageUrl:"5.jpg"},
-      {id: 6, name: "movie5",description:"nice movie", imageUrl:"6.jpg"},
-      {id: 7, name: "movie5",description:"good movie", imageUrl:"7.jpg"}
+      {id: 6, name: "movie5",description:"nice movie", imageUrl:"1.jpg"},
+      {id: 7, name: "movie5",description:"good movie", imageUrl:"2.jpg"}
     ];
     return {movies};
   }
